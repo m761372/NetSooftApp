@@ -1,0 +1,14 @@
+C:\Users\msosa\Downloads\NetSooftApp\EjercicioSooftApp.Dao\bin\Debug\EjercicioSooftApp.Dao.dll.config
+C:\Users\msosa\Downloads\NetSooftApp\EjercicioSooftApp.Dao\bin\Debug\EjercicioSooftApp.Dao.dll
+C:\Users\msosa\Downloads\NetSooftApp\EjercicioSooftApp.Dao\bin\Debug\EjercicioSooftApp.Dao.pdb
+C:\Users\msosa\Downloads\NetSooftApp\EjercicioSooftApp.Dao\bin\Debug\EntityFramework.dll
+C:\Users\msosa\Downloads\NetSooftApp\EjercicioSooftApp.Dao\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\msosa\Downloads\NetSooftApp\EjercicioSooftApp.Dao\bin\Debug\Newtonsoft.Json.dll
+C:\Users\msosa\Downloads\NetSooftApp\EjercicioSooftApp.Dao\bin\Debug\EntityFramework.xml
+C:\Users\msosa\Downloads\NetSooftApp\EjercicioSooftApp.Dao\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\msosa\Downloads\NetSooftApp\EjercicioSooftApp.Dao\bin\Debug\Newtonsoft.Json.xml
+C:\Users\msosa\Downloads\NetSooftApp\EjercicioSooftApp.Dao\obj\Debug\EjercicioSooftApp.Dao.csproj.AssemblyReference.cache
+C:\Users\msosa\Downloads\NetSooftApp\EjercicioSooftApp.Dao\obj\Debug\EjercicioSooftApp.Dao.csproj.CoreCompileInputs.cache
+C:\Users\msosa\Downloads\NetSooftApp\EjercicioSooftApp.Dao\obj\Debug\EjercicioSooftApp.Dao.csproj.CopyComplete
+C:\Users\msosa\Downloads\NetSooftApp\EjercicioSooftApp.Dao\obj\Debug\EjercicioSooftApp.Dao.dll
+C:\Users\msosa\Downloads\NetSooftApp\EjercicioSooftApp.Dao\obj\Debug\EjercicioSooftApp.Dao.pdb
